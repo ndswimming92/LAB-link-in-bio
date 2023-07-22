@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(32, 32, 32);
+}
+
+img {
+  width:200px;
+  height:200px;
+  display: block;
+  border-radius: 50%;
+  object-fit: fill;
+  margin: auto;
+  padding: 10px;
+  }
+
+
+h1 {
+  color: aqua;
+  text-align: center;
+  margin: 25px;
+}
